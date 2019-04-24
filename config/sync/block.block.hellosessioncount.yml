@@ -1,0 +1,20 @@
+uuid: d99e7edd-f595-4969-bfda-fcc89b3f4767
+langcode: fr
+status: true
+dependencies:
+  module:
+    - hello
+  theme:
+    - bartik
+id: hellosessioncount
+theme: bartik
+region: sidebar_second
+weight: 0
+provider: null
+plugin: hello_session_count_block
+settings:
+  id: hello_session_count_block
+  label: 'Hello session count'
+  provider: hello
+  label_display: visible
+visibility: {  }

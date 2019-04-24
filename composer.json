@@ -22,18 +22,19 @@
         "drupal-composer/drupal-scaffold": "^2.5",
         "drupal/admin_toolbar": "^1.26",
         "drupal/config_split": "^1.4",
+        "drupal/config_update": "^1.6",
         "drupal/console": "^1.0.2",
         "drupal/core": "^8.6.0",
+        "drupal/devel": "^2.0",
         "drupal/maillog": "1.x-dev",
         "drupal/module_filter": "^3.1",
-        "drush/drush": "^9.0.0",
+        "kint-php/kint": "^3.2",
         "vlucas/phpdotenv": "^2.4",
         "webflo/drupal-finder": "^1.0.0",
         "webmozart/path-util": "^2.3",
         "zaporylie/composer-drupal-optimizations": "^1.0"
     },
     "require-dev": {
-        "drupal/devel": "^2.0",
         "webflo/drupal-core-require-dev": "^8.6.0"
     },
     "conflict": {

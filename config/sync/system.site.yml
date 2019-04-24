@@ -1,0 +1,14 @@
+uuid: d695e2a9-2846-4917-9c68-727d7868b4fc
+name: drupaltestsync
+mail: mallouk.salahdine@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: fr
+default_langcode: fr
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
