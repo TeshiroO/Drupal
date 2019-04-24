@@ -48,10 +48,10 @@ function hello_schema() {
 /**
  * Implements hook_uninstall().
  */
-function hello_uninstall() {
+/*function hello_uninstall() {
   \Drupal::state()->delete('hello_form_submission_time');
 }
-
+*/
 /**
  * Add an 'action' field to the hello_user_statistics table.
  */
