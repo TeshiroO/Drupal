@@ -4,6 +4,9 @@ git pull origin master
 # Récupérer les librairies.
 composer install
 
+# Export des configs de prods.
+drush csex prod -y 
+
 # Mettre a jour la base de données Drupal.
 drush updb -y
 
