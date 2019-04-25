@@ -1,0 +1,5 @@
+name: Perf
+type: module
+description: Perfomance configurations.
+core: 8.x
+package: Training
